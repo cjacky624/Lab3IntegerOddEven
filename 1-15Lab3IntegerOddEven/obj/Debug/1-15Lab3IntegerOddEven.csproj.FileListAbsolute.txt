@@ -1,0 +1,6 @@
+c:\users\jc\documents\visual studio 2017\Projects\1-15Lab3IntegerOddEven\1-15Lab3IntegerOddEven\bin\Debug\1-15Lab3IntegerOddEven.exe.config
+c:\users\jc\documents\visual studio 2017\Projects\1-15Lab3IntegerOddEven\1-15Lab3IntegerOddEven\bin\Debug\1-15Lab3IntegerOddEven.exe
+c:\users\jc\documents\visual studio 2017\Projects\1-15Lab3IntegerOddEven\1-15Lab3IntegerOddEven\bin\Debug\1-15Lab3IntegerOddEven.pdb
+c:\users\jc\documents\visual studio 2017\Projects\1-15Lab3IntegerOddEven\1-15Lab3IntegerOddEven\obj\Debug\1-15Lab3IntegerOddEven.csprojResolveAssemblyReference.cache
+c:\users\jc\documents\visual studio 2017\Projects\1-15Lab3IntegerOddEven\1-15Lab3IntegerOddEven\obj\Debug\1-15Lab3IntegerOddEven.exe
+c:\users\jc\documents\visual studio 2017\Projects\1-15Lab3IntegerOddEven\1-15Lab3IntegerOddEven\obj\Debug\1-15Lab3IntegerOddEven.pdb
